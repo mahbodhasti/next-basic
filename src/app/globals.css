@@ -6,3 +6,10 @@
 .global-text {
   color: rgb(4, 0, 255) 
 }
+
+.active-link {
+  color: red !important ;
+}
+.pending-link{
+  color: green !important ;
+}
